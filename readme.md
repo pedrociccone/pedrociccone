@@ -4,7 +4,7 @@
 
 :mortar_board: Full Stack Web Developer student @ [Cubos Academy](https://www.cubos.academy/).
 
-:house: Argentinean living in Salvador, Brazil.
+:house: Argentinian living in Salvador, Brazil.
 
 :earth_americas: Passionate about travelling, learning new languages and getting to know new cultures.
 
