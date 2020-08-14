@@ -1,10 +1,10 @@
-# Hi! Everything's good?
+# Hi! How's everything going? :wave:
 
-### About me
+### About me :v:
 
 - Full Stack Web Developer student @ Cubos Academy
-- Argentinean living in Salvador, BR
+- :ar: :br: Argentinean living in Salvador, BR
 - Passionate about travelling, learning new languages and getting to know new cultures
 - Interested in football, movies, music and books
 
-### Reach me out!
+### Reach me out! :point_down:
