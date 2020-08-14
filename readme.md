@@ -2,9 +2,9 @@
 
 ### About me :v:
 
-- Full Stack Web Developer student @ Cubos Academy
-- :ar: :br: Argentinean living in Salvador, BR
-- Passionate about travelling, learning new languages and getting to know new cultures
-- Interested in football, movies, music and books
+:mortar_board: Full Stack Web Developer student @ Cubos Academy
+:house: Argentinean living in Salvador, BR
+:earth_americas: Passionate about travelling, learning new languages and getting to know new cultures
+:mag: Interested in football, movies, music and books
 
 ### Reach me out! :point_down:
