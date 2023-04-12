@@ -2,15 +2,15 @@
 
 ### About me
 
-:mortar_board: QA Analyst searching for a job.
+🎓 QA Analyst searching for a job.
 
-:house: Argentinian based in Salvador, Brazil.
+🏠 Argentinian based in Salvador, Brazil.
 
-:earth_americas: Passionate about travelling, learning new languages and getting to know new cultures.
+🌎 Passionate about travelling, learning new languages and getting to know new cultures.
 
-:mag: Interested in football, movies, TV shows, music and books.
+🔍 Interested in football, movies, TV shows, music and books.
 
-I'm currently learning Cypress and Selenium.
+📚 I'm currently learning Cypress and Selenium.
 
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 -
