@@ -1,6 +1,6 @@
-Hi! I'm Pedro Ciccone, a QA Analyst from Argentina.
+#### Hi! I'm Pedro Ciccone, a QA Analyst from Argentina.
 
-### About me
+#### About me
 
 🔍 Currently searching for a job as QA Manual or Automation Analyst.
 
