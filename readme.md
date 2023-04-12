@@ -10,7 +10,7 @@ Hi! I'm Pedro Ciccone, a QA Analyst from Argentina.
 
 💭 Interested in politics, movies, TV shows and music.
 
-🎓 Currently learning Cypress and Selenium.
+🎓 Learning Cypress.
 
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 -
