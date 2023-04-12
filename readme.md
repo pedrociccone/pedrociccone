@@ -1,16 +1,16 @@
-# Hi! I'm Pedro Ciccone :wave:
+Hi! I'm Pedro Ciccone, a QA Analyst from Argentina.
 
 ### About me
 
-🎓 QA Analyst searching for a job.
+🔍 Currently searching for a job as QA Manual or Automation Analyst.
 
-🏠 Argentinian based in Salvador, Brazil.
+🇧🇷 Based in Salvador, Brazil.
 
-🌎 Passionate about travelling, learning new languages and getting to know new cultures.
+🌎 Passionate about travelling and watching football.
 
-🔍 Interested in football, movies, TV shows, music and books.
+💭 Interested in politics, movies, TV shows and music.
 
-📚 I'm currently learning Cypress and Selenium.
+🎓 Currently learning Cypress and Selenium.
 
 <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"> <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
 -
