@@ -4,7 +4,7 @@ Hi! I'm Pedro Ciccone, a QA Analyst from Argentina.
 
 🔍 Currently searching for a job as QA Manual or Automation Analyst.
 
-🇧🇷 Based in Salvador, Brazil.
+🏠 Based in Salvador, Brazil.
 
 🌎 Passionate about travelling and watching football.
 
