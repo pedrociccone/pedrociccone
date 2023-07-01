@@ -2,7 +2,7 @@
 
 #### About me
 
-🔍 Currently searching for a job as QA Manual or Automation Analyst.
+🔍 Currently searching for a job as QA Manual or Automation Tester.
 
 🏠 Based in Salvador, Brazil.
 
