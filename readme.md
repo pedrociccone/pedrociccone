@@ -1,4 +1,4 @@
-### Hi! I'm Pedro Ciccone, a QA Analyst from Argentina.
+### Hi! I'm Pedro Ciccone, a QA Tester from Argentina.
 
 #### About me
 
